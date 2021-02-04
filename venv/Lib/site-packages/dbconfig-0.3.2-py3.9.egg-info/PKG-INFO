@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: dbconfig
+Version: 0.3.2
+Summary: store config in database
+Home-page: UNKNOWN
+Author: Viktor Kotseruba
+Author-email: barbuzaster@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: config web django
+Platform: UNKNOWN

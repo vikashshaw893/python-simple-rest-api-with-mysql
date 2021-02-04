@@ -1,0 +1,5 @@
+export FLASK_APP=app.py
+export FLASK_RUN_HOST=127.0.0.1
+export FLASK_ENV=development
+export FLASK_DEBUG=0
+flask run --port=6000
